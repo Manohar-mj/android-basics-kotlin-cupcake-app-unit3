@@ -1,5 +1,5 @@
 Cupcake app
-=================================
+
 
 This app contains an order flow for cupcakes with options for quantity, flavor, and pickup date.
 The order details get displayed on an order summary screen and can be shared to another app to
@@ -9,18 +9,10 @@ This app demonstrates multiple fragments in an activity, a shared ViewModel acro
 data binding, LiveData, and the Jetpack Navigation component.
 
 
-Pre-requisites
---------------
-* Familiar with activities and fragments
-* How to use styles and themes in the UI
-* Basic understanding of Jetpack architecture components including ViewModel and LiveData
-* Data binding and binding expressions
-* Kotlin syntax basics
 
 
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+<img width="960" alt="cup" src="https://user-images.githubusercontent.com/83489094/187129221-52e75232-c4d2-4c00-8982-720d7d0681ac.png">
+
+
+https://user-images.githubusercontent.com/83489094/187129364-c8f5d2ce-bbb1-4ea9-8162-91ec11a49393.mp4
+
